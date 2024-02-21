@@ -1,0 +1,53 @@
+* {
+    font-size: 24px;
+}
+
+#title_label {
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+#score_layout * {
+    font-size: 16px;
+}
+
+#score_layout QLabel {
+    padding: 5px 10px;
+}
+
+#restart {
+    max-width: 80px;
+
+}
+
+#restart:hover {
+
+}
+
+#score_layout QLabel {
+
+}
+
+#title_label {
+
+}
+
+#target_text_label {
+    min-width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    min-height: 4em;
+    max-height: 4em;
+}
+
+#text_input_field {
+    min-width: 300px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+
